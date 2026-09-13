@@ -5,7 +5,7 @@ title: Conditions générales d'utilisation
 
 # Conditions Générales d'Utilisation et de Vente — Gym Timer
 
-**Dernière mise à jour : 12/09/2026**
+**Dernière mise à jour : 13/09/2026**
 
 ## 1. Objet
 
@@ -86,7 +86,7 @@ médical, ni un avis, diagnostic ou traitement médical.
     Abonnements sur l'appareil.
 - **Dysfonctionnement du service.** Si tu rencontres un problème imputable à
   l'Application (bug bloquant, fonctionnalité Premium indisponible), contacte-nous à
-  verinmarwin@gmail.com : nous t'aiderons à constituer ta demande auprès d'Apple/Google
+  contact@mrwco.fr : nous t'aiderons à constituer ta demande auprès d'Apple/Google
   et, si le problème vient de notre service, nous t'accompagnerons dans les démarches.
 
 ## 6. Droit de rétractation (consommateurs UE)
@@ -120,7 +120,7 @@ sans autorisation, la perturber, ou porter atteinte aux droits d'autrui.
 ## 10. Données personnelles
 
 Le traitement de tes données est décrit dans notre
-**[Politique de confidentialité](politique-de-confidentialite.html)**.
+**[Politique de confidentialité](./politique-de-confidentialite.html)**.
 
 ## 11. Résiliation
 
@@ -144,4 +144,4 @@ compte »). Nous pouvons suspendre un compte en cas de violation de ces conditio
 
 ## 13. Contact
 
-**verinmarwin@gmail.com**
+**contact@mrwco.fr**

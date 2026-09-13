@@ -5,7 +5,7 @@ title: Politique de confidentialité
 
 # Politique de confidentialité — Gym Timer
 
-**Dernière mise à jour : 12/09/2026**
+**Dernière mise à jour : 13/09/2026**
 
 La présente politique de confidentialité (ci-après « la Politique ») a pour seul objet
 d'expliquer quelles données à caractère personnel sont collectées dans le cadre de
@@ -23,8 +23,8 @@ alors mise à jour et déclarée dans le formulaire App Privacy d'Apple.
 > **Ce document ne traite que la protection des données personnelles.** Les règles
 > contractuelles d'utilisation du service (compte, abonnement Premium, résiliation,
 > responsabilité) figurent dans les **Conditions Générales d'Utilisation et de Vente
-> (CGU/CGV)** (`conditions-generales.md`), et les informations légales sur l'éditeur
-> figurent dans les **Mentions légales** (`mentions-legales.md`). Ces trois documents
+> (CGU/CGV)** (`conditions-generales.html`), et les informations légales sur l'éditeur
+> figurent dans les **Mentions légales** (`mentions-legales.html`). Ces trois documents
 > sont distincts et doivent être lus ensemble mais ne se substituent pas l'un à l'autre.
 
 ---
@@ -35,7 +35,7 @@ alors mise à jour et déclarée dans le formulaire App Privacy d'Apple.
   nom commercial : **Mrw Co**
 - **Statut :** Entrepreneur individuel — SIRET 10924536500019
 - **Adresse :** 53 rue Montmailler, 87000 Limoges, France
-- **Contact / exercice des droits :** verinmarwin@gmail.com
+- **Contact / exercice des droits :** contact@mrwco.fr
 - **Délégué à la protection des données (DPO) :** non désigné — au regard de la taille
   de l'activité et de la nature des traitements (art. 37 RGPD), la désignation d'un DPO
   n'est pas obligatoire à ce stade. Le responsable de traitement assure lui-même le
@@ -94,6 +94,9 @@ encadré par un accord de traitement (DPA) conforme à l'article 28 du RGPD :
   de la Commission européenne pour le Royaume-Uni.
 - **Envoi d'e-mails transactionnels** (vérification de compte, réinitialisation de mot
   de passe) : Brevo — Sendinblue SAS, 106 boulevard Haussmann, 75008 Paris, France.
+- **Réception des e-mails adressés à `contact@mrwco.fr`** (notamment tes demandes
+  d'exercice de droits) : OVH — OVH SAS, 2 rue Kellermann, 59100 Roubaix, France,
+  service de messagerie hébergé en France.
 - **Paiement / abonnements :** Apple (App Store) et Google (Google Play), qui traitent
   les données de paiement selon leurs propres politiques de confidentialité. **Nous ne
   stockons aucune donnée de carte bancaire** ; nous recevons uniquement une
@@ -127,17 +130,9 @@ ne sont **pas rattachés à ton compte**, y compris lorsque tu es connecté.
 > retenue reste le **consentement** pour le suivi détaillé des fonctionnalités, et
 > l'**intérêt légitime** pour le seul diagnostic technique indispensable (plantages),
 > limité au strict nécessaire.
->
-> **Point à faire trancher par le juriste** : compte tenu de cette absence
-> d'identification (aucun e-mail ni identifiant de compte transmis), déterminer si ce
-> traitement peut relever du régime d'exemption de consentement prévu par la CNIL pour
-> la mesure d'audience, ou si un **mécanisme de consentement/refus explicite et une
-> bascule de désactivation** doivent être ajoutés dans l'app avant publication. À
-> défaut de décision, l'éditeur s'engage à limiter la collecte au diagnostic technique
-> strictement nécessaire à la sécurité et à la stabilité du service (art. 6.1.f).
 
 Tu peux à tout moment demander la désactivation de ce suivi ou la suppression des
-données associées en écrivant à verinmarwin@gmail.com (voir section 7).
+données associées en écrivant à contact@mrwco.fr (voir section 7).
 
 ### 4.2 Gestion des abonnements (RevenueCat)
 
@@ -209,7 +204,7 @@ données personnelles :
   (portabilité), « Désactiver mon compte » (pause réversible, sans perte de données)
   ou « Supprimer mon compte » (effacement définitif). Un bouton « Déconnecter tous les
   appareils » te permet aussi de révoquer immédiatement toutes tes sessions actives.
-- **Par e-mail :** verinmarwin@gmail.com, en précisant le droit exercé. Réponse sous
+- **Par e-mail :** contact@mrwco.fr, en précisant le droit exercé. Réponse sous
   un délai maximal d'un mois (prorogeable de deux mois pour les demandes complexes).
 - **Droit de réclamation :** si tu estimes que tes droits ne sont pas respectés, tu
   peux saisir la **Commission Nationale de l'Informatique et des Libertés (CNIL)** —
@@ -232,7 +227,7 @@ consentement numérique autonome fixé par l'article 45 de la loi Informatique e
 Libertés pour les services de la société de l'information. Nous ne collectons pas
 sciemment de données concernant des utilisateurs de moins de 15 ans. Si tu es le
 parent ou le représentant légal d'un mineur ayant créé un compte sans ton autorisation,
-contacte-nous à verinmarwin@gmail.com afin que nous supprimions ce compte.
+contacte-nous à contact@mrwco.fr afin que nous supprimions ce compte.
 
 ## 10. Modifications de la Politique
 
@@ -245,4 +240,4 @@ document.
 ## 11. Contact
 
 Pour toute question relative à cette Politique ou à tes données personnelles :
-**verinmarwin@gmail.com**.
+**contact@mrwco.fr**.

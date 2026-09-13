@@ -21,7 +21,7 @@ La suppression est **immédiate et définitive**.
 > sont fermées, et le compte se réactive à ta prochaine connexion.
 
 ## Sans l'application (par e-mail)
-Si tu n'as plus l'application, envoie une demande à **verinmarwin@gmail.com** depuis
+Si tu n'as plus l'application, envoie une demande à **contact@mrwco.fr** depuis
 l'adresse e-mail de ton compte. Nous traiterons la demande sous 30 jours.
 
 ## Ce qui est supprimé

@@ -5,7 +5,7 @@ title: Politique de confidentialité
 
 # Politique de confidentialité — Gym Timer
 
-**Dernière mise à jour : 13/09/2026**
+**Dernière mise à jour : 18/09/2026**
 
 La présente politique de confidentialité (ci-après « la Politique ») a pour seul objet
 d'expliquer quelles données à caractère personnel sont collectées dans le cadre de
@@ -55,6 +55,7 @@ alors mise à jour et déclarée dans le formulaire App Privacy d'Apple.
 | Consentements | Version des CGU acceptée, date, opt-in e-mails, adresse IP au moment du consentement | Système | Oui, pour créer un compte |
 | Technique / sécurité | Adresse IP, dates de connexion, journal d'audit (inscription, connexion, réinitialisation de mot de passe…) | Système | Oui, à des fins de sécurité |
 | Mesure d'usage et diagnostics | Événements d'utilisation de l'app (ex. séance démarrée/terminée, minuteur, mise à jour du matériel, connexion) — **sans identifiant de compte ni adresse e-mail** —, informations techniques (version de l'app/OS, appareil), erreurs et plantages | Système, via **PostHog** (voir 4.1) | Non — voir 4.1 pour la maîtrise de ce traitement |
+| Messages de contact | Le contenu du message que tu écris depuis Profil → Aide & contact, le type choisi (avis, problème, question), l'adresse e-mail que tu laisses pour la réponse (facultative), et des informations techniques jointes : version de l'application, système d'exploitation et sa version, ainsi que ton compte et ton type d'abonnement si tu es connecté | Toi, facultatif | Non |
 | Reconnexion biométrique | **Aucune donnée biométrique ne nous est transmise.** Face ID / Touch ID / empreinte sont vérifiés **localement par le système d'exploitation de ton téléphone** ; l'app ne fait que réutiliser, une fois le déverrouillage local réussi, un jeton de connexion déjà émis et stocké dans l'espace sécurisé de l'appareil (Keychain/Keystore) | Ton appareil (traitement 100 % local) | Non, fonctionnalité facultative activable dans Profil → Compte |
 
 **Données de santé / forme physique.** Le poids (y compris les pesées datées), la
@@ -80,6 +81,7 @@ publicitaires, ni aucune donnée de carte bancaire (voir section 4.2).
 | Diagnostic technique (plantages, erreurs) pour maintenir le service en état de fonctionnement | Intérêt légitime (art. 6.1.f), limité au strict nécessaire |
 | Mesure d'usage détaillée de l'application (statistiques de fonctionnalités) | Consentement (art. 6.1.a), voir 4.1 — retirable à tout moment |
 | E-mails d'actualités (facultatif) | Consentement (art. 6.1.a), retirable à tout moment |
+| Répondre aux messages envoyés depuis « Aide & contact » et corriger les problèmes signalés | Exécution du contrat (art. 6.1.b) et intérêt légitime (art. 6.1.f) |
 | Respect d'obligations légales (comptables, fiscales) | Obligation légale (art. 6.1.c) |
 
 ## 4. Destinataires et sous-traitants
@@ -172,6 +174,11 @@ d'adéquation :
   mais tes données sont **conservées sans limite de durée supplémentaire**, jusqu'à ce
   que tu te reconnectes (réactivation automatique) ou que tu demandes la suppression
   définitive.
+- **Messages de contact :** conservés 24 mois maximum après le traitement de ta
+  demande, afin de garder une trace des problèmes signalés et de leur correction.
+  Si tu étais connecté au moment de l'envoi, ils sont **supprimés avec ton compte**.
+  Note : si nous t'avons répondu par e-mail, cet échange subsiste dans nos boîtes
+  de messagerie respectives, comme tout courrier électronique.
 - **Journaux de sécurité / audit :** 12 mois maximum.
 - **Données de facturation :** conservées 10 ans (obligation comptable française).
 - **Codes de vérification / réinitialisation :** supprimés après usage ou expiration

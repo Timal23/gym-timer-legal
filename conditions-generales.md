@@ -143,8 +143,12 @@ compte »). Nous pouvons suspendre un compte en cas de violation de ces conditio
 - Ces conditions sont régies par le **droit français**.
 - En cas de désaccord, écris-nous d'abord à **contact@mrwco.fr** : nous répondons à
   chaque réclamation et cherchons une solution amiable.
-- Si le litige persiste, tu peux recourir gratuitement à un médiateur de la
-  consommation.
+- Si le litige persiste, tu peux recourir **gratuitement** à notre médiateur de la
+  consommation :
+  **CM2C — Centre de la Médiation de la Consommation de Conciliateurs de Justice**
+  49 rue de Ponthieu, 75008 Paris — <https://www.cm2c.net>
+  La saisine suppose que tu nous aies **d'abord écrit** (point précédent) et doit
+  intervenir **dans l'année** suivant cette réclamation écrite.
 - À défaut de résolution amiable, les tribunaux français sont compétents.
 
 ## 13. Contact

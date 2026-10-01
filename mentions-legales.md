@@ -36,5 +36,13 @@ d'entraînement, design, logos, code) est protégé et demeure la propriété de
 ou de ses concédants. Toute reproduction ou représentation, totale ou partielle, sans
 autorisation, est interdite.
 
+**Médiation de la consommation**
+Conformément aux articles L.612-1 et suivants du Code de la consommation, l'éditeur
+adhère à un dispositif de médiation de la consommation :
+**CM2C — Centre de la Médiation de la Consommation de Conciliateurs de Justice**,
+49 rue de Ponthieu, 75008 Paris — <https://www.cm2c.net>.
+Le recours au médiateur est **gratuit** pour le consommateur et suppose une
+**réclamation écrite préalable** auprès de l'éditeur.
+
 **Contact**
 Pour toute question : contact@mrwco.fr.

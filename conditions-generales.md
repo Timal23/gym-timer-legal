@@ -3,14 +3,14 @@ layout: default
 title: Conditions générales d'utilisation
 ---
 
-# Conditions Générales d'Utilisation et de Vente — Gym Timer
+# Conditions Générales d'Utilisation et de Vente — TimerGym
 
-**Dernière mise à jour : 13/09/2026**
+**Dernière mise à jour : 01/10/2026**
 
 ## 1. Objet
 
 Les présentes conditions régissent l'accès et l'utilisation de l'application
-**Gym Timer** (« l'Application », `com.mrwco.gymtimer`), distribuée à ce jour sur
+**TimerGym** (« l'Application », `com.mrwco.gymtimer`), distribuée à ce jour sur
 **Google Play** (une publication ultérieure sur l'App Store n'est pas exclue), éditée
 par Marwin Verin (entreprise individuelle), nom commercial « Mrw Co » (« nous »).
 En créant un compte, tu acceptes ces conditions sans réserve.
@@ -25,7 +25,7 @@ En créant un compte, tu acceptes ces conditions sans réserve.
 
 ## 3. ⚠️ Avertissement santé — l'Application ne remplace pas un avis médical
 
-**Gym Timer fournit des programmes d'entraînement, minuteurs et suggestions
+**TimerGym fournit des programmes d'entraînement, minuteurs et suggestions
 de charge à titre informatif et éducatif uniquement.** Ce n'est pas un service
 médical, ni un avis, diagnostic ou traitement médical.
 
@@ -65,36 +65,40 @@ médical, ni un avis, diagnostic ou traitement médical.
   abonnement depuis les réglages de ton compte Apple ou Google.
 ## 5. Remboursements
 
-- **Principe général.** Comme le paiement passe exclusivement par l'achat intégré
-  Apple ou Google (article 4), c'est **la plateforme, et elle seule, qui traite et
-  décide des remboursements** — nous ne recevons jamais tes coordonnées bancaires et
-  ne pouvons pas déclencher nous-mêmes un remboursement.
-- **Abonnements (mensuel/annuel) :** si tu annules pendant l'**essai gratuit de 7
+Le paiement passe exclusivement par l'achat intégré de la plateforme (article 4) :
+nous ne recevons jamais tes coordonnées bancaires. Qui traite ta demande dépend de la
+plateforme sur laquelle tu as acheté.
+
+- **Google Play.**
+  - **Dans les 48 heures suivant l'achat :** adresse ta demande directement à Google,
+    depuis play.google.com/store/account (« Commandes ») ou support.google.com/googleplay.
+  - **Au-delà de 48 heures :** écris-nous à **contact@mrwco.fr** en indiquant ton numéro
+    de commande. Nous examinons chaque demande et, lorsqu'elle est fondée (par exemple
+    un accès Premium qui ne fonctionne pas), nous remboursons la commande depuis Google
+    Play, sans préjudice de tes droits légaux (article 9).
+- **App Store (Apple).** Apple décide seul des remboursements : demande-le sur
+  reportaproblem.apple.com. Nous ne pouvons pas rembourser une commande Apple nous-mêmes.
+- **Abonnements (mensuel/annuel).** Si tu annules pendant l'**essai gratuit de 7
   jours**, aucun montant n'est prélevé. Une fois l'abonnement facturé, la période en
-  cours reste due ; annuler stoppe uniquement le renouvellement suivant (pas de
-  remboursement au prorata de la période déjà payée, sauf décision contraire
-  d'Apple/Google).
-- **Achat unique « à vie » (54,99 €) :** n'étant pas un abonnement, il ne peut pas être
-  simplement « annulé » — seule une demande de remboursement auprès d'Apple ou Google
-  peut donner lieu à un remboursement, selon leurs conditions propres.
-- **Comment demander un remboursement :**
-  - **Google Play :** via play.google.com/store/account (« Commandes ») ou
-    support.google.com/googleplay (Google rembourse en général automatiquement une
-    demande faite dans les 48 h suivant l'achat ; au-delà, la demande est étudiée au
-    cas par cas).
-  - **App Store (Apple) :** via reportaproblem.apple.com, ou Réglages → [ton nom] →
-    Abonnements sur l'appareil.
+  cours reste due ; annuler stoppe uniquement le renouvellement suivant, sans
+  remboursement au prorata (sauf décision contraire de la plateforme ou de notre part).
+  Tu peux annuler à tout moment depuis les réglages de ton compte Google ou Apple.
+- **Achat unique « à vie » (54,99 €).** Il ne s'annule pas comme un abonnement : seule
+  une demande de remboursement, selon les règles ci-dessus, peut y donner suite.
 - **Dysfonctionnement du service.** Si tu rencontres un problème imputable à
   l'Application (bug bloquant, fonctionnalité Premium indisponible), contacte-nous à
-  contact@mrwco.fr : nous t'aiderons à constituer ta demande auprès d'Apple/Google
-  et, si le problème vient de notre service, nous t'accompagnerons dans les démarches.
+  contact@mrwco.fr : nous cherchons d'abord à le corriger et, à défaut, nous
+  t'aidons à obtenir le remboursement.
 
 ## 6. Droit de rétractation (consommateurs UE)
 
-Pour un contenu numérique fourni immédiatement, tu **consens à l'exécution immédiate**
-et **renonces à ton droit de rétractation** de 14 jours une fois l'accès ouvert,
-conformément à l'article L.221-28 du Code de la consommation. La gestion des
-remboursements relève d'Apple/Google (voir article 5).
+En principe, tu disposes de **14 jours** pour te rétracter d'un achat à distance
+(article L.221-18 du Code de la consommation). Le Premium étant un contenu numérique
+fourni immédiatement, cet accès immédiat ne peut te être ouvert que si, **au moment de
+l'achat**, tu demandes expressément qu'il commence tout de suite et reconnais perdre
+ton droit de rétractation dès que le contenu est fourni (article L.221-28, 13°). Cette
+mention t'est présentée sur l'écran d'achat, avant le paiement. Les remboursements
+sont traités comme indiqué à l'article 5.
 
 ## 7. Propriété intellectuelle
 
@@ -116,6 +120,12 @@ sans autorisation, la perturber, ou porter atteinte aux droits d'autrui.
   pour les dommages indirects, ni pour les conséquences d'une pratique sportive
   inadaptée (voir article 3). Rien dans ces conditions ne limite notre responsabilité
   en cas de faute lourde ou de dommage corporel causé par notre faute.
+- **Garantie légale de conformité.** En tant que consommateur, tu bénéficies de la
+  garantie légale de conformité applicable aux contenus et services numériques
+  (articles L.224-25-12 et suivants du Code de la consommation) : si l'Application ou
+  le Premium n'est pas conforme à ce qui a été convenu, tu peux obtenir sa mise en
+  conformité, à défaut une réduction du prix ou la résolution du contrat. Ces droits
+  s'ajoutent aux présentes conditions et ne peuvent pas être écartés par elles.
 
 ## 10. Données personnelles
 
@@ -131,15 +141,10 @@ compte »). Nous pouvons suspendre un compte en cas de violation de ces conditio
 ## 12. Droit applicable et litiges
 
 - Ces conditions sont régies par le **droit français**.
-- En cas de litige, tu peux utiliser la plateforme européenne de règlement en ligne
-  des litiges : ec.europa.eu/consumers/odr.
-- ⚠️ **Point en attente.** Le recours à un **médiateur de la consommation** est une
-  obligation légale (art. L.616-1 du Code de la consommation) dès lors que
-  l'Application vend effectivement un abonnement payant à des consommateurs.
-  L'abonnement Premium étant à ce jour en phase de test (aucun paiement réel, voir
-  article 4), aucun médiateur n'a encore été désigné/adhéré. **L'éditeur doit adhérer
-  à un médiateur de la consommation agréé et compléter cette clause avec son nom et
-  ses coordonnées avant toute mise en vente réelle de l'abonnement Premium.**
+- En cas de désaccord, écris-nous d'abord à **contact@mrwco.fr** : nous répondons à
+  chaque réclamation et cherchons une solution amiable.
+- Si le litige persiste, tu peux recourir gratuitement à un médiateur de la
+  consommation.
 - À défaut de résolution amiable, les tribunaux français sont compétents.
 
 ## 13. Contact

@@ -3,7 +3,7 @@ layout: default
 title: Mentions légales
 ---
 
-# Mentions légales — Gym Timer
+# Mentions légales — TimerGym
 
 **Éditeur**
 - Marwin Verin (entreprise individuelle) — nom commercial : Mrw Co
@@ -13,22 +13,25 @@ title: Mentions légales
 - E-mail : contact@mrwco.fr
 - Directeur de la publication : Marwin Verin
 
-**Hébergeur du backend applicatif**
-- Render Services, Inc. — https://render.com
-- Instance exécutée en région Frankfurt (Allemagne, Union européenne).
+**Hébergeur de l'application (serveur applicatif)**
+- Render Services, Inc. — 525 Brannan Street, Suite 300, San Francisco, CA 94107, États-Unis — https://render.com
+- Serveur exécuté en région Frankfurt (Allemagne, Union européenne).
+
+**Hébergeur des documents légaux (pages publiques)**
+- GitHub, Inc. (GitHub Pages) — 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis — https://github.com
 
 **Hébergeur de la base de données**
 - Neon (Lakebase Postgres) — données en région AWS Europe (`eu-west-2`, Londres).
 - Neon Inc. — https://neon.com
 
 **Envoi d'e-mails**
-- Brevo — Sendinblue SAS, 106 boulevard Haussmann, 75008 Paris, France — https://www.brevo.com
+- Brevo (anciennement Sendinblue), société par actions simplifiée, Paris, France — https://www.brevo.com
 
 **Nom de domaine et messagerie**
 - OVH — OVH SAS, 2 rue Kellermann, 59100 Roubaix, France — https://www.ovhcloud.com
 
 **Propriété intellectuelle**
-L'ensemble des éléments de l'application Gym Timer (contenus, programmes
+L'ensemble des éléments de l'application TimerGym (contenus, programmes
 d'entraînement, design, logos, code) est protégé et demeure la propriété de l'éditeur
 ou de ses concédants. Toute reproduction ou représentation, totale ou partielle, sans
 autorisation, est interdite.

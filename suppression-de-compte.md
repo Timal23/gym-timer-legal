@@ -3,18 +3,20 @@ layout: default
 title: Supprimer mon compte
 ---
 
-# Supprimer ton compte — Gym Timer
+# Supprimer ton compte — TimerGym
 
 Tu peux supprimer ton compte et toutes tes données personnelles à tout moment.
 
 ## Depuis l'application (recommandé)
-1. Ouvre **Gym Timer**.
+1. Ouvre **TimerGym**.
 2. Va dans l'onglet **Profil**.
 3. Dans « Réglages », ouvre **« Compte »**.
 4. Descends jusqu'à la section **« DONNÉES & CONFIDENTIALITÉ »**.
 5. Appuie sur **« Supprimer mon compte »** et confirme.
 
-La suppression est **immédiate et définitive**.
+La suppression est **immédiate et définitive** : elle efface toutes tes données de
+nos serveurs. Les copies techniques de sauvegarde de la base disparaissent d'elles-mêmes
+à l'expiration de la fenêtre de restauration de notre hébergeur.
 
 > Tu préfères faire une pause sans rien perdre ? Le même écran propose
 > **« Désactiver mon compte »** : tes données sont conservées, toutes tes sessions
@@ -35,7 +37,9 @@ l'adresse e-mail de ton compte. Nous traiterons la demande sous 30 jours.
 ## Ce qui peut être conservé
 - Les **données de facturation** requises par la loi (obligation comptable, jusqu'à
   10 ans),
-- Des **journaux de sécurité** anonymisés (jusqu'à 12 mois).
+- Des **journaux de sécurité** anonymisés (jusqu'à 12 mois) : ton adresse IP et tout
+  détail saisi (pseudo, e-mail) en sont effacés dès la suppression, il n'en reste que
+  le type d'action et la date.
 
 Avant de supprimer, tu peux **exporter tes données** :
 Profil → **Compte** → « Exporter mes données ».

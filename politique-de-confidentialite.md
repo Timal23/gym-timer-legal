@@ -3,13 +3,13 @@ layout: default
 title: Politique de confidentialité
 ---
 
-# Politique de confidentialité — Gym Timer
+# Politique de confidentialité — TimerGym
 
-**Dernière mise à jour : 18/09/2026**
+**Dernière mise à jour : 01/10/2026**
 
 La présente politique de confidentialité (ci-après « la Politique ») a pour seul objet
 d'expliquer quelles données à caractère personnel sont collectées dans le cadre de
-l'utilisation de l'application mobile **Gym Timer** (ci-après « l'Application »),
+l'utilisation de l'application mobile **TimerGym** (ci-après « l'Application »),
 disponible sur **Google Play**, pourquoi elles le
 sont, avec qui elles sont partagées, combien de temps elles sont conservées, et quels
 droits tu peux exercer. Elle est établie conformément au Règlement (UE) 2016/679 du
@@ -51,10 +51,10 @@ alors mise à jour et déclarée dans le formulaire App Privacy d'Apple.
 | Historique d'entraînement | Séances terminées : date, programme, lieu (salle/maison/poids du corps), durée, exercices réalisés, charges utilisées, séries et répétitions, volume total | Toi, en terminant une séance | Non — conservé en local si tu n'as pas de compte |
 | Suivi du poids | Pesées datées que tu saisis toi-même | Toi, facultatif | Non |
 | Séances personnalisées | Nom que tu donnes à la séance et liste ordonnée des exercices que tu y places | Toi, facultatif (fonctionnalité Premium) | Non |
-| Abonnement | Type de plan (gratuit/Premium/Pro), statut, identifiants de transaction fournis par le magasin d'applications | Toi + Apple/Google (et, une fois activé, RevenueCat — voir 4.1) | Non, sauf souscription |
+| Abonnement | Type de plan (gratuit/Premium/Pro), statut, identifiants de transaction fournis par le magasin d'applications | Toi + Apple/Google (et, une fois activé, RevenueCat — voir 4.2) | Non, sauf souscription |
 | Consentements | Version des CGU acceptée, date, opt-in e-mails, adresse IP au moment du consentement | Système | Oui, pour créer un compte |
 | Technique / sécurité | Adresse IP, dates de connexion, journal d'audit (inscription, connexion, réinitialisation de mot de passe…) | Système | Oui, à des fins de sécurité |
-| Mesure d'usage et diagnostics | Événements d'utilisation de l'app (ex. séance démarrée/terminée, minuteur, mise à jour du matériel, connexion) — **sans identifiant de compte ni adresse e-mail** —, informations techniques (version de l'app/OS, appareil), erreurs et plantages | Système, via **PostHog** (voir 4.1) | Non — voir 4.1 pour la maîtrise de ce traitement |
+| Mesure d'usage et diagnostics | Événements d'utilisation de l'app (ex. séance démarrée/terminée, minuteur, mise à jour du matériel, connexion), écrans consultés — **sans identifiant de compte ni adresse e-mail, et sans le contenu que tu saisis** —, informations techniques (version de l'app/OS, modèle d'appareil), erreurs et plantages | Système, via **PostHog** (voir 4.1) | Non — voir 4.1 pour t'y opposer |
 | Messages de contact | Le contenu du message que tu écris depuis Profil → Aide & contact, le type choisi (avis, problème, question), l'adresse e-mail que tu laisses pour la réponse (facultative), et des informations techniques jointes : version de l'application, système d'exploitation et sa version, ainsi que ton compte et ton type d'abonnement si tu es connecté | Toi, facultatif | Non |
 | Reconnexion biométrique | **Aucune donnée biométrique ne nous est transmise.** Face ID / Touch ID / empreinte sont vérifiés **localement par le système d'exploitation de ton téléphone** ; l'app ne fait que réutiliser, une fois le déverrouillage local réussi, un jeton de connexion déjà émis et stocké dans l'espace sécurisé de l'appareil (Keychain/Keystore) | Ton appareil (traitement 100 % local) | Non, fonctionnalité facultative activable dans Profil → Compte |
 
@@ -79,7 +79,7 @@ publicitaires, ni aucune donnée de carte bancaire (voir section 4.2).
 | Sécurité du compte, prévention de la fraude, journal d'audit | Intérêt légitime (art. 6.1.f) |
 | Vérification d'e-mail et réinitialisation de mot de passe | Exécution du contrat (art. 6.1.b) |
 | Diagnostic technique (plantages, erreurs) pour maintenir le service en état de fonctionnement | Intérêt légitime (art. 6.1.f), limité au strict nécessaire |
-| Mesure d'usage détaillée de l'application (statistiques de fonctionnalités) | Consentement (art. 6.1.a), voir 4.1 — retirable à tout moment |
+| Mesure d'audience de l'application (statistiques d'usage sans identification directe) | Intérêt légitime (art. 6.1.f) — améliorer l'app, voir 4.1 ; tu peux t'y opposer à tout moment |
 | E-mails d'actualités (facultatif) | Consentement (art. 6.1.a), retirable à tout moment |
 | Répondre aux messages envoyés depuis « Aide & contact » et corriger les problèmes signalés | Exécution du contrat (art. 6.1.b) et intérêt légitime (art. 6.1.f) |
 | Respect d'obligations légales (comptables, fiscales) | Obligation légale (art. 6.1.c) |
@@ -89,13 +89,13 @@ publicitaires, ni aucune donnée de carte bancaire (voir section 4.2).
 Tes données sont accessibles à nous-mêmes et aux **sous-traitants** suivants, chacun
 encadré par un accord de traitement (DPA) conforme à l'article 28 du RGPD :
 
-- **Hébergement du backend applicatif :** Render (Render Services, Inc.), instance
-  hébergée en région **Frankfurt (Allemagne, Union européenne)**.
+- **Hébergement du backend applicatif :** Render (Render Services, Inc., société
+  américaine), serveur hébergé en région **Frankfurt (Allemagne, Union européenne)**.
 - **Base de données :** Neon (Lakebase Postgres) — données hébergées en région AWS
   Europe (`eu-west-2`, Londres, Royaume-Uni), couverte par la **décision d'adéquation**
   de la Commission européenne pour le Royaume-Uni.
 - **Envoi d'e-mails transactionnels** (vérification de compte, réinitialisation de mot
-  de passe) : Brevo — Sendinblue SAS, 106 boulevard Haussmann, 75008 Paris, France.
+  de passe) : Brevo (anciennement Sendinblue), société française, Paris.
 - **Réception des e-mails adressés à `contact@mrwco.fr`** (notamment tes demandes
   d'exercice de droits) : OVH — OVH SAS, 2 rue Kellermann, 59100 Roubaix, France,
   service de messagerie hébergé en France.
@@ -110,31 +110,29 @@ Nous ne **vendons** pas tes données et ne les partageons pas à des fins public
 
 ### 4.1 Mesure d'usage et diagnostics (PostHog)
 
-L'Application utilise **PostHog** (PostHog Inc.) comme outil unique de mesure d'usage
-et de diagnostic technique. Concrètement, PostHog peut recevoir :
+L'Application utilise **PostHog** (PostHog Inc.) comme outil unique de mesure
+d'audience et de diagnostic technique. Concrètement, PostHog peut recevoir :
 
-- des **événements de navigation et d'usage des fonctionnalités** (ex. démarrage/fin
-  de séance, mise à jour du 1RM ou du matériel, ouverture de l'onboarding, souscription
-  simulée à l'abonnement) ;
+- des **événements d'usage des fonctionnalités** (ex. démarrage/fin de séance, mise à
+  jour du 1RM ou du matériel, fin de l'onboarding, souscription simulée) et le **nom
+  des écrans consultés** ;
 - des **informations techniques** (version de l'app et du système d'exploitation,
-  modèle d'appareil, ouverture/mise en arrière-plan de l'app) ;
+  modèle d'appareil, langue, fuseau horaire, ouverture/mise en arrière-plan de l'app) ;
 - des **rapports d'erreurs et de plantages** (exceptions non interceptées, promesses
   rejetées).
 
 En revanche, PostHog **ne reçoit ni l'identifiant de ton compte, ni ton adresse
-e-mail** : la fonction d'identification de PostHog n'est pas utilisée et les événements
-ne sont **pas rattachés à ton compte**, y compris lorsque tu es connecté.
+e-mail, ni le contenu que tu saisis** (pseudo, nom de tes séances, poids, messages…) :
+la fonction d'identification de PostHog n'est pas utilisée, les touchers de l'écran
+ne sont pas enregistrés, et les événements ne sont **pas rattachés à ton compte**, y
+compris lorsque tu es connecté. Ils sont associés à un **identifiant technique
+aléatoire, généré à l'installation** de l'application et **réinitialisé à chaque
+déconnexion**. La localisation approximative déduite de l'adresse IP est désactivée.
 
-> ⚠️ **Point d'attention.** Les événements transmis à PostHog ne sont reliés ni à ton
-> compte ni à ton e-mail. Ils restent toutefois associés à un **identifiant technique
-> généré pour l'installation de l'application**, ce qui ne permet pas de les qualifier
-> de données strictement anonymes en toutes circonstances. Par prudence, la base légale
-> retenue reste le **consentement** pour le suivi détaillé des fonctionnalités, et
-> l'**intérêt légitime** pour le seul diagnostic technique indispensable (plantages),
-> limité au strict nécessaire.
-
-Tu peux à tout moment demander la désactivation de ce suivi ou la suppression des
-données associées en écrivant à contact@mrwco.fr (voir section 7).
+**Base légale :** l'intérêt légitime de l'éditeur (art. 6.1.f RGPD) à comprendre
+l'usage de l'app et à corriger ses plantages, sans identification directe des
+personnes. **Tu peux t'y opposer à tout moment** en écrivant à contact@mrwco.fr (voir
+section 7).
 
 ### 4.2 Gestion des abonnements (RevenueCat)
 
@@ -147,42 +145,60 @@ alors l'identifiant de transaction, le statut d'abonnement et l'identifiant de c
 **jamais de données de carte bancaire**, qui restent exclusivement traitées par Apple
 et Google. La présente Politique sera mise à jour à cette occasion.
 
+### 4.3 Stockage sur ton appareil et traceurs
+
+L'Application n'utilise **pas de cookies** et n'emploie **aucun identifiant
+publicitaire**. Elle enregistre sur ton appareil : tes réglages et tes données
+d'entraînement (stockage local de l'app, effacé à la désinstallation), ton jeton de
+connexion (espace sécurisé Keychain/Keystore, uniquement si tu as un compte) et
+l'identifiant technique de PostHog décrit en 4.1.
+
 ## 5. Transferts hors Union européenne
 
-Lorsqu'un sous-traitant traite des données hors UE, le transfert est encadré par les
-**Clauses Contractuelles Types** de la Commission européenne ou par une décision
-d'adéquation :
+Lorsqu'un sous-traitant traite des données hors UE, le transfert est encadré par une
+**décision d'adéquation** de la Commission européenne ou par des garanties
+contractuelles :
 
-- **Neon** (base de données) : région Royaume-Uni, couverte par la décision
-  d'adéquation UE–Royaume-Uni.
-- **PostHog** (mesure d'usage) : l'Application est configurée sur l'infrastructure
-  **« EU Cloud » de PostHog** (`eu.i.posthog.com`) — les données sont donc **hébergées
-  dans l'Union européenne**. PostHog Inc. étant une société américaine, tout accès
-  éventuel depuis les États-Unis (support, maintenance) est encadré par les **Clauses
-  Contractuelles Types** de la Commission européenne.
+- **Neon** (base de données) : données hébergées au Royaume-Uni (Londres), couvert par
+  la décision d'adéquation UE–Royaume-Uni, renouvelée jusqu'au 27 décembre 2031. Neon
+  Inc. étant une société américaine, tout accès depuis les États-Unis est encadré par
+  son accord de traitement des données (DPA).
+- **PostHog** (mesure d'audience) : l'Application est configurée sur l'infrastructure
+  **« EU Cloud » de PostHog** (`eu.i.posthog.com`) — les données sont **hébergées dans
+  l'Union européenne**. PostHog Inc. étant une société américaine, tout accès depuis
+  les États-Unis relève de sa participation au **EU-US Data Privacy Framework**.
+- **Render** (hébergement du serveur applicatif) : Render Services, Inc. est une société
+  américaine, mais le serveur est situé à Francfort (UE) ; elle est **certifiée sous le
+  EU-US Data Privacy Framework**.
 - **RevenueCat, Inc.** (à l'activation du Premium payant) : société américaine ; le
-  transfert sera, le cas échéant, encadré par des clauses contractuelles types.
-- **Render** (hébergement backend), **Brevo** (e-mails) : situés dans l'**Union
-  européenne**.
+  transfert sera, le cas échéant, encadré par des clauses contractuelles types ou le
+  Data Privacy Framework.
+- **Brevo** (e-mails) et **OVH** (messagerie) : sociétés françaises, données traitées
+  dans l'Union européenne.
 
 ## 6. Durées de conservation
 
-- **Compte et profil :** conservés tant que le compte est actif, puis supprimés dans
-  un délai de 30 jours après la suppression du compte.
+- **Compte et profil :** conservés tant que le compte est actif. La suppression du
+  compte (Profil → Compte) efface **immédiatement** toutes tes données de nos serveurs
+  (profil, 1RM, séances, pesées, messages, consentements). Les copies techniques de
+  sauvegarde de la base disparaissent d'elles-mêmes à l'expiration de la fenêtre de
+  restauration de notre hébergeur.
 - **Compte désactivé (mis en pause) :** depuis Profil → Compte, tu peux **désactiver**
   ton compte plutôt que le supprimer : toutes tes sessions sont immédiatement révoquées
-  mais tes données sont **conservées sans limite de durée supplémentaire**, jusqu'à ce
-  que tu te reconnectes (réactivation automatique) ou que tu demandes la suppression
-  définitive.
-- **Messages de contact :** conservés 24 mois maximum après le traitement de ta
-  demande, afin de garder une trace des problèmes signalés et de leur correction.
+  mais tes données sont **conservées** jusqu'à ce que tu te reconnectes
+  (réactivation automatique) ou que tu demandes la suppression définitive.
+- **Messages de contact :** conservés 24 mois maximum à compter de leur réception,
+  afin de garder une trace des problèmes signalés et de leur correction, puis
+  supprimés automatiquement.
   Si tu étais connecté au moment de l'envoi, ils sont **supprimés avec ton compte**.
   Note : si nous t'avons répondu par e-mail, cet échange subsiste dans nos boîtes
   de messagerie respectives, comme tout courrier électronique.
-- **Journaux de sécurité / audit :** 12 mois maximum.
+- **Journaux de sécurité / audit :** 12 mois maximum, puis supprimés automatiquement.
+  Si tu supprimes ton compte, ton adresse IP et tout détail saisi en sont effacés
+  immédiatement : il n'en reste que le type d'action et la date.
 - **Données de facturation :** conservées 10 ans (obligation comptable française).
-- **Codes de vérification / réinitialisation :** supprimés après usage ou expiration
-  (15 minutes).
+- **Codes de vérification / réinitialisation :** valables 15 minutes, supprimés
+  automatiquement dans les 24 heures suivant leur usage ou leur expiration.
 - **Événements de mesure d'usage et diagnostics (PostHog) :** 12 mois maximum à
   compter de leur collecte, au-delà desquels ils sont supprimés ou anonymisés.
 

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Gym Timer — Informations légales
+title: TimerGym — Informations légales
 ---
 
-# Gym Timer — Informations légales
+# TimerGym — Informations légales
 
-Gym Timer est une application mobile de musculation : séances guidées, minuteur de
+TimerGym est une application mobile de musculation : séances guidées, minuteur de
 repos, charge conseillée et suivi de progression.
 
 ## Documents
@@ -21,4 +21,4 @@ repos, charge conseillée et suivi de progression.
 ## Contact
 
 Pour toute question relative à tes données ou à l'application :
-**verinmarwin@gmail.com**
+**contact@mrwco.fr**

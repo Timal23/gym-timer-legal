@@ -5,7 +5,7 @@ title: Politique de confidentialité
 
 # Politique de confidentialité — TimerGym
 
-**Dernière mise à jour : 01/10/2026**
+**Dernière mise à jour : 05/10/2026**
 
 La présente politique de confidentialité (ci-après « la Politique ») a pour seul objet
 d'expliquer quelles données à caractère personnel sont collectées dans le cadre de
@@ -16,9 +16,9 @@ droits tu peux exercer. Elle est établie conformément au Règlement (UE) 2016/
 27 avril 2016 (« RGPD ») et à la loi n° 78-17 du 6 janvier 1978 modifiée dite
 « Informatique et Libertés ».
 
-À la date de publication, l'Application est distribuée sur **Google Play**. Une
-publication ultérieure sur l'App Store n'est pas exclue ; la présente Politique sera
-alors mise à jour et déclarée dans le formulaire App Privacy d'Apple.
+À la date de publication, l'Application est en phase de test sur **Google Play** et
+soumise à la vérification d'Apple en vue d'une publication sur l'**App Store**. Le
+formulaire **App Privacy** d'Apple est renseigné conformément à la présente Politique.
 
 > **Ce document ne traite que la protection des données personnelles.** Les règles
 > contractuelles d'utilisation du service (compte, abonnement Premium, résiliation,
@@ -103,6 +103,10 @@ encadré par un accord de traitement (DPA) conforme à l'article 28 du RGPD :
   les données de paiement selon leurs propres politiques de confidentialité. **Nous ne
   stockons aucune donnée de carte bancaire** ; nous recevons uniquement une
   confirmation de transaction (identifiant d'achat, statut, plan souscrit).
+- **Gestion des abonnements :** RevenueCat (RevenueCat, Inc., société américaine), qui
+  reçoit l'identifiant de ton compte, l'identifiant de transaction et le statut de ton
+  abonnement afin de nous permettre de débloquer le Premium sur tous tes appareils
+  (voir 4.2). **Aucune donnée de carte bancaire ne lui est transmise.**
 - **Stores :** Apple et Google, lors du téléchargement de l'Application et des achats
   intégrés.
 
@@ -136,14 +140,19 @@ section 7).
 
 ### 4.2 Gestion des abonnements (RevenueCat)
 
-À la date de la présente Politique, l'abonnement Premium est en **phase de test** et
-**aucun paiement réel n'est débité** : aucun prestataire tiers de gestion d'abonnement
-ne reçoit donc de données à ce stade. Lorsque l'abonnement Premium sera activé
-définitivement, nous prévoyons d'utiliser **RevenueCat** (RevenueCat, Inc.) pour gérer
-les abonnements sur Apple et Google avec une seule intégration. RevenueCat recevra
-alors l'identifiant de transaction, le statut d'abonnement et l'identifiant de compte —
-**jamais de données de carte bancaire**, qui restent exclusivement traitées par Apple
-et Google. La présente Politique sera mise à jour à cette occasion.
+L'abonnement Premium est géré par **RevenueCat** (RevenueCat, Inc., société
+américaine), qui nous permet de gérer les abonnements sur Apple et Google avec une
+seule intégration.
+
+RevenueCat reçoit l'**identifiant de ton compte** (un numéro interne à notre service,
+jamais ton adresse e-mail), l'**identifiant de la transaction** et le **statut de ton
+abonnement**. Ces informations nous reviennent pour débloquer les fonctions Premium
+sur tous les appareils où tu es connecté, et pour les retirer à l'expiration.
+
+RevenueCat ne reçoit **jamais de données de carte bancaire** : celles-ci sont traitées
+exclusivement par Apple et Google, qui ne nous les transmettent pas davantage.
+
+Le transfert vers les États-Unis est encadré comme indiqué au point 5.
 
 ### 4.3 Stockage sur ton appareil et traceurs
 
@@ -170,9 +179,10 @@ contractuelles :
 - **Render** (hébergement du serveur applicatif) : Render Services, Inc. est une société
   américaine, mais le serveur est situé à Francfort (UE) ; elle est **certifiée sous le
   EU-US Data Privacy Framework**.
-- **RevenueCat, Inc.** (à l'activation du Premium payant) : société américaine ; le
-  transfert sera, le cas échéant, encadré par des clauses contractuelles types ou le
-  Data Privacy Framework.
+- **RevenueCat** (gestion des abonnements) : RevenueCat, Inc. est une société
+  américaine ; le transfert est encadré par l'accord de traitement conclu avec
+  RevenueCat, qui repose sur les **clauses contractuelles types** de la Commission
+  européenne.
 - **Brevo** (e-mails) et **OVH** (messagerie) : sociétés françaises, données traitées
   dans l'Union européenne.
 

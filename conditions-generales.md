@@ -5,13 +5,13 @@ title: Conditions générales d'utilisation
 
 # Conditions Générales d'Utilisation et de Vente — TimerGym
 
-**Dernière mise à jour : 01/10/2026**
+**Dernière mise à jour : 06/10/2026**
 
 ## 1. Objet
 
 Les présentes conditions régissent l'accès et l'utilisation de l'application
-**TimerGym** (« l'Application », `com.mrwco.gymtimer`), distribuée à ce jour sur
-**Google Play** (une publication ultérieure sur l'App Store n'est pas exclue), éditée
+**TimerGym** (« l'Application », `com.mrwco.gymtimer`), distribuée sur
+l'**App Store** d'Apple et sur **Google Play**, éditée
 par Marwin Verin (entreprise individuelle), nom commercial « Mrw Co » (« nous »).
 En créant un compte, tu acceptes ces conditions sans réserve.
 
@@ -51,10 +51,6 @@ médical, ni un avis, diagnostic ou traitement médical.
   gratuit de 7 jours. Sauf résiliation au moins 24 h avant la fin de l'essai,
   l'abonnement choisi démarre automatiquement au tarif affiché. L'éligibilité à l'essai suit les règles de la
   plateforme.
-- ⚠️ **À la date de la présente version**, l'abonnement Premium est en **phase de test
-  interne** : son déblocage ne donne lieu à **aucun paiement réel**. La présente
-  clause décrit le fonctionnement prévu pour le lancement commercial de l'abonnement,
-  qui sera annoncé dans l'Application.
 - **Les achats et abonnements sont gérés par la plateforme de téléchargement**
   (App Store d'Apple ou Google Play), via leurs systèmes d'achat intégré. Le prix,
   la facturation, le **renouvellement automatique** et la **résiliation** suivent

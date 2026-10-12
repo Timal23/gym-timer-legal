@@ -5,20 +5,19 @@ title: Politique de confidentialité
 
 # Politique de confidentialité — TimerGym
 
-**Dernière mise à jour : 05/10/2026**
+**Dernière mise à jour : 12/10/2026**
 
 La présente politique de confidentialité (ci-après « la Politique ») a pour seul objet
 d'expliquer quelles données à caractère personnel sont collectées dans le cadre de
 l'utilisation de l'application mobile **TimerGym** (ci-après « l'Application »),
-disponible sur **Google Play**, pourquoi elles le
+pourquoi elles le
 sont, avec qui elles sont partagées, combien de temps elles sont conservées, et quels
 droits tu peux exercer. Elle est établie conformément au Règlement (UE) 2016/679 du
 27 avril 2016 (« RGPD ») et à la loi n° 78-17 du 6 janvier 1978 modifiée dite
 « Informatique et Libertés ».
 
-À la date de publication, l'Application est en phase de test sur **Google Play** et
-soumise à la vérification d'Apple en vue d'une publication sur l'**App Store**. Le
-formulaire **App Privacy** d'Apple est renseigné conformément à la présente Politique.
+Elle s'applique à l'Application quel que soit le magasin d'applications par lequel tu
+l'as obtenue.
 
 > **Ce document ne traite que la protection des données personnelles.** Les règles
 > contractuelles d'utilisation du service (compte, abonnement Premium, résiliation,
@@ -51,7 +50,7 @@ formulaire **App Privacy** d'Apple est renseigné conformément à la présente 
 | Historique d'entraînement | Séances terminées : date, programme, lieu (salle/maison/poids du corps), durée, exercices réalisés, charges utilisées, séries et répétitions, volume total | Toi, en terminant une séance | Non — conservé en local si tu n'as pas de compte |
 | Suivi du poids | Pesées datées que tu saisis toi-même | Toi, facultatif | Non |
 | Séances personnalisées | Nom que tu donnes à la séance et liste ordonnée des exercices que tu y places | Toi, facultatif (fonctionnalité Premium) | Non |
-| Abonnement | Type de plan (gratuit/Premium/Pro), statut, identifiants de transaction fournis par le magasin d'applications | Toi + Apple/Google (et, une fois activé, RevenueCat — voir 4.2) | Non, sauf souscription |
+| Abonnement | Type de plan (gratuit/Premium/Pro), statut, identifiants de transaction fournis par le magasin d'applications | Toi + Apple/Google et RevenueCat (voir 4.2) | Non, sauf souscription |
 | Consentements | Version des CGU acceptée, date, opt-in e-mails, adresse IP au moment du consentement | Système | Oui, pour créer un compte |
 | Technique / sécurité | Adresse IP, dates de connexion, journal d'audit (inscription, connexion, réinitialisation de mot de passe…) | Système | Oui, à des fins de sécurité |
 | Mesure d'usage et diagnostics | Événements d'utilisation de l'app (ex. séance démarrée/terminée, minuteur, mise à jour du matériel, connexion), écrans consultés — **sans identifiant de compte ni adresse e-mail, et sans le contenu que tu saisis** —, informations techniques (version de l'app/OS, modèle d'appareil), erreurs et plantages | Système, via **PostHog** (voir 4.1) | Non — voir 4.1 pour t'y opposer |

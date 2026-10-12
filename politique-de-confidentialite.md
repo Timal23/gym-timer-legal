@@ -47,7 +47,7 @@ l'as obtenue.
 |-----------|---------|---------|----------------|
 | Compte | Adresse e-mail, pseudo de connexion, mot de passe (stocké **haché**, jamais en clair) | Toi, à l'inscription | Oui, pour créer un compte |
 | Profil | Nom affiché, poids, taille, âge, sexe, objectif, matériel disponible, charges maximales (1RM) | Toi, facultatif | Non — l'app fonctionne aussi sans compte, en local |
-| Historique d'entraînement | Séances terminées : date, programme, lieu (salle/maison/poids du corps), durée, exercices réalisés, charges utilisées, séries et répétitions, volume total | Toi, en terminant une séance | Non — conservé en local si tu n'as pas de compte |
+| Historique d'entraînement | Séances terminées : date, programme, lieu (salle/maison/poids du corps), durée, exercices réalisés, charges utilisées, séries et répétitions, volume total | Toi, en terminant une séance | Non — sans compte, seule ta dernière séance reste sur ton téléphone, pour être ajoutée au compte que tu crées dans les 24 h ; elle n'est jamais envoyée sinon |
 | Suivi du poids | Pesées datées que tu saisis toi-même | Toi, facultatif | Non |
 | Séances personnalisées | Nom que tu donnes à la séance et liste ordonnée des exercices que tu y places | Toi, facultatif (fonctionnalité Premium) | Non |
 | Abonnement | Type de plan (gratuit/Premium/Pro), statut, identifiants de transaction fournis par le magasin d'applications | Toi + Apple/Google et RevenueCat (voir 4.2) | Non, sauf souscription |

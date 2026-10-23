@@ -22,3 +22,10 @@ repos, charge conseillée et suivi de progression.
 
 Pour toute question relative à tes données ou à l'application :
 **contact@mrwco.fr**
+
+## English
+
+English translations, provided for convenience (the French versions prevail):
+
+- **[Privacy Policy](en/privacy.html)**
+- **[Terms of Use and Sale](en/terms.html)**

@@ -6,7 +6,7 @@ lang: en
 
 # Terms of Use and Sale — TimerGym
 
-**Last updated: 23/10/2026**
+**Last updated: October 23, 2026**
 
 > This is an English translation provided for convenience. In case of any
 > discrepancy, the **French version** of these terms prevails:
@@ -51,16 +51,16 @@ medical advice, diagnosis or treatment.
   on the date of writing and may change; the price shown on your store listing
   (Google Play / App Store) at the time of purchase prevails, in your local currency.
 - **Free trial:** the monthly and yearly subscriptions may include a 7-day free
-  trial. Unless cancelled at least 24 hours before the end of the trial, the chosen
+  trial. Unless canceled at least 24 hours before the end of the trial, the chosen
   subscription starts automatically at the displayed price. Trial eligibility follows
   the platform's rules.
 - **Purchases and subscriptions are handled by the download platform** (Apple's App
   Store or Google Play), through their in-app purchase systems. Price, billing,
   **automatic renewal** and **cancellation** follow the rules of the platform
   concerned.
-- **Renewal:** unless cancelled at least 24 hours before the end of the period, the
-  subscription renews automatically (the one-time "lifetime" purchase is not
-  concerned). You can manage and cancel your subscription in your Apple or Google
+- **Renewal:** unless canceled at least 24 hours before the end of the period, the
+  subscription renews automatically. This does not apply to the one-time
+  "lifetime" purchase. You can manage and cancel your subscription in your Apple or Google
   account settings.
 
 ## 5. Refunds
@@ -80,13 +80,13 @@ the platform you bought from.
   reportaproblem.apple.com. We cannot refund an Apple order ourselves.
 - **Subscriptions (monthly/yearly).** If you cancel during the **7-day free trial**,
   nothing is charged. Once the subscription has been billed, the current period
-  remains due; cancelling only stops the next renewal, with no prorated refund
+  remains due; canceling only stops the next renewal, with no prorated refund
   (unless the platform or we decide otherwise). You can cancel at any time in your
   Google or Apple account settings.
-- **One-time "lifetime" purchase (€54.99).** It cannot be cancelled like a
+- **One-time "lifetime" purchase (€54.99).** It cannot be canceled like a
   subscription: only a refund request, under the rules above, can be granted.
 - **Service malfunction.** If you encounter a problem attributable to the App
-  (blocking bug, Premium feature unavailable), contact us at contact@mrwco.fr: we
+  (a bug that prevents you from using the App, Premium feature unavailable), contact us at contact@mrwco.fr: we
   first try to fix it and, failing that, we help you obtain a refund.
 
 ## 6. Right of withdrawal (EU consumers)
@@ -102,7 +102,7 @@ handled as described in section 5.
 ## 7. Intellectual property
 
 The App, its content (programs, texts, design, logos) and its code are owned by us
-or our licensors. We grant you a personal, non-exclusive and non-transferable licence
+or our licensors. We grant you a personal, non-exclusive and non-transferable license
 to use it. You may not copy, modify, decompile or resell the App.
 
 ## 8. User conduct

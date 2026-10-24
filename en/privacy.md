@@ -6,7 +6,7 @@ lang: en
 
 # Privacy Policy — TimerGym
 
-**Last updated: 23/10/2026**
+**Last updated: October 23, 2026**
 
 > This is an English translation provided for convenience. In case of any
 > discrepancy, the **French version** of this policy prevails:
@@ -225,8 +225,8 @@ Under articles 12 to 22 GDPR, you have the following rights over your personal d
   "Deactivate my account" (reversible pause, no data loss) or "Delete my account"
   (permanent erasure). A "Sign out of all devices" button also lets you immediately
   revoke all your active sessions.
-- **By email:** contact@mrwco.fr, stating the right you are exercising. Reply within a
-  maximum of one month (which may be extended by two months for complex requests).
+- **By email:** contact@mrwco.fr, stating the right you are exercising. We will respond within
+  one month (which may be extended by two months for complex requests).
 - **Right to lodge a complaint:** if you believe your rights are not being respected,
   you can contact the **Commission Nationale de l'Informatique et des Libertés
   (CNIL)** — www.cnil.fr — 3 place de Fontenoy, 75007 Paris, France — or the data
